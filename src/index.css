@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-color: var(--primary-color);
+  transition: background-color 0.3s ease-in-out;
+}
+body.dark-mode{
+  --primary-color: #202d36;
+  --seconday-color: #2b3743;
+  --text-color: white;
+  --dark-shadow: #1d252b;
+  --light-shadow: #1d252b;
+}
+body.light-mode{
+  --primary-color: #f0f0f0;
+  --seconday-color: #ffffff;
+  --text-color: black;
+  --dark-shadow: #eee;
+  --light-shadow: #eee;
+}
