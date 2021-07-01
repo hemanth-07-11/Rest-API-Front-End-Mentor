@@ -1,12 +1,13 @@
 # REST-Countries-API-with-color-theme-switcher
 
 A React web app using the countries RESTFUL api for Front End Mentors Challenge, with the color theme switcher implemented
-https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca
+
+[REST API CHALLENGE](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
 
 ### Screenshots
- ![screenshots]()
+ ![screenshots](https://raw.githubusercontent.com/hemanth-07-11/Rest-API-Front-End-Mentor/main/images/light.jpeg)
  
- ![screenshots]()
+ ![screenshots](https://raw.githubusercontent.com/hemanth-07-11/Rest-API-Front-End-Mentor/main/images/dark.jpeg)
 
 Users will be able to:
 
