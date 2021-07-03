@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rest-API-Front-End-Mentor/static/css/main.b3bf6f07.chunk.css",
+    "main.js": "/Rest-API-Front-End-Mentor/static/js/main.0f35b71b.chunk.js",
+    "main.js.map": "/Rest-API-Front-End-Mentor/static/js/main.0f35b71b.chunk.js.map",
+    "runtime-main.js": "/Rest-API-Front-End-Mentor/static/js/runtime-main.ed4160d0.js",
+    "runtime-main.js.map": "/Rest-API-Front-End-Mentor/static/js/runtime-main.ed4160d0.js.map",
+    "static/js/2.44e07e93.chunk.js": "/Rest-API-Front-End-Mentor/static/js/2.44e07e93.chunk.js",
+    "static/js/2.44e07e93.chunk.js.map": "/Rest-API-Front-End-Mentor/static/js/2.44e07e93.chunk.js.map",
+    "static/js/3.a9d834f9.chunk.js": "/Rest-API-Front-End-Mentor/static/js/3.a9d834f9.chunk.js",
+    "static/js/3.a9d834f9.chunk.js.map": "/Rest-API-Front-End-Mentor/static/js/3.a9d834f9.chunk.js.map",
+    "index.html": "/Rest-API-Front-End-Mentor/index.html",
+    "static/css/main.b3bf6f07.chunk.css.map": "/Rest-API-Front-End-Mentor/static/css/main.b3bf6f07.chunk.css.map",
+    "static/js/2.44e07e93.chunk.js.LICENSE.txt": "/Rest-API-Front-End-Mentor/static/js/2.44e07e93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed4160d0.js",
+    "static/js/2.44e07e93.chunk.js",
+    "static/css/main.b3bf6f07.chunk.css",
+    "static/js/main.0f35b71b.chunk.js"
+  ]
+}
